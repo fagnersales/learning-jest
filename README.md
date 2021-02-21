@@ -1,2 +1,1 @@
-# learnin-jest
- Learnin Jest from Jest Documentation
+Commited by each part of the documentation.
