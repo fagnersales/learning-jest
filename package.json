@@ -1,0 +1,30 @@
+{
+  "name": "learnin-jest",
+  "version": "1.0.0",
+  "description": "Commited by each part of the documentation.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnersales/learning-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnersales/learning-jest/issues"
+  },
+  "homepage": "https://github.com/fagnersales/learning-jest#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "@babel/preset-typescript": "^7.12.17",
+    "@types/jest": "^26.0.20",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.1"
+  }
+}
